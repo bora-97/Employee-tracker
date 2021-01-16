@@ -6,7 +6,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 Design the following database schema containing three tables:
 
-![Database Schema](Assets/schema.png)
+In VS code open an integrated terminal and run 
+node index.js 
+
 
 * **department**:
 
