@@ -35,4 +35,4 @@ VALUE ("Hannah", "Montana", 4, 5);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
 VALUE ("Steven", "Little", 1, 4);
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUE ("Adil", "Goat", 1, 6);
+VALUE ("Bora", "Xhidra", 1, 6);
